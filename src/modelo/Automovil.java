@@ -15,5 +15,5 @@ package modelo;
             return "Puertas: " + cantidadPuertas;
         }
     }
-}
+
 
